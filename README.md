@@ -1,2 +1,3 @@
-# agentic-ai-extension
-ChatGPT chrome extension for agentic ai
+# Agentic AI Extension
+
+A Chrome extension for an agentic AI.
